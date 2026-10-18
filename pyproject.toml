@@ -1,7 +1,7 @@
 [tool.poetry]
-name = "contacts"
+name = "contacts-crud-api"
 version = "0.1.0"
-description = "Contacts app"
+description = "REST API for managing personal contacts"
 authors = ["Alex Kydanov <a.kidanov@gmail.com>"]
 
 [tool.poetry.dependencies]
